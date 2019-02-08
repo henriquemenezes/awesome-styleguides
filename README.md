@@ -18,6 +18,7 @@
   - [Vue](#vue)
   - [React](#react)
 - [CSS](#css)
+- [Other](#other)
 
 ## Styleguides
 
@@ -83,3 +84,7 @@
 
 + *RSCSS* - [https://rscss.io/](https://rscss.io/)
 + *BEM* - [http://getbem.com/](http://getbem.com/)
+
+### Other
+
++ *Frontend Guidelines* - [https://github.com/bendc/frontend-guidelines](https://github.com/bendc/frontend-guidelines)
