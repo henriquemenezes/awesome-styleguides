@@ -25,6 +25,7 @@
 
 ### Go
 
++ *Effective Go* - [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html)
 + *Go Code Review Comments* - [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ### Ruby
