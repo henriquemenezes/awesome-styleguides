@@ -3,16 +3,17 @@
 
 ## Contents
 
+- [Go](#go)
+- [Ruby](#ruby)
+  - [Rails](#rails)
+- [Python](#python)
+  - [Django](#django)
 - [Android](#android)
   - [Java](#java)
   - [Kotlin](#kotlin)
 - [iOS](#ios)
   - [Objective-C](#objective-c)
   - [Swift](#swift)
-- [Ruby](#ruby)
-  - [Rails](#rails)
-- [Python](#python)
-  - [Django](#django)
 - [JavaScript](#javascript)
   - [Angular](#angular)
   - [Vue](#vue)
@@ -21,6 +22,30 @@
 - [Other](#other)
 
 ## Styleguides
+
+### Go
+
++ *Go Code Review Comments* - [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+### Ruby
+
++ *Ruby* - [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
++ *Rubocop* - [https://github.com/rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+
+#### Rails
+
++ *Rails - Style Guide* - [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
++ *Rails - Production* - [https://github.com/ankane/production_rails](https://github.com/ankane/production_rails)
++ *Robocop - Rails Style Guide* - [https://github.com/rubocop-hq/rails-style-guide](https://github.com/rubocop-hq/rails-style-guide)
+
+### Python
+
++ *PEP 8* - [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
++ *Google Python Style Guide* - [https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
+
+#### Django
+
++ *Django - Coding Style* - [https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/](https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/)
 
 ### Android
 
@@ -43,26 +68,6 @@
 #### Swift
 
 + *Swift* - [https://github.com/raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
-
-### Ruby
-
-+ *Ruby* - [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
-+ *Rubocop* - [https://github.com/rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
-
-#### Rails
-
-+ *Rails - Style Guide* - [https://github.com/bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
-+ *Rails - Production* - [https://github.com/ankane/production_rails](https://github.com/ankane/production_rails)
-+ *Robocop - Rails Style Guide* - [https://github.com/rubocop-hq/rails-style-guide](https://github.com/rubocop-hq/rails-style-guide)
-
-### Python
-
-+ *PEP 8* - [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
-+ *Google Python Style Guide* - [https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
-
-#### Django
-
-+ *Django - Coding Style* - [https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/](https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/coding-style/)
 
 ### JavaScript
 
