@@ -50,6 +50,8 @@
 
 ### Android
 
++ *Android Guidelines* - [https://github.com/ribot/android-guidelines](https://github.com/ribot/android-guidelines)
+
 #### Java
 
 + *Java* - [https://github.com/raywenderlich/java-style-guide](https://github.com/raywenderlich/java-style-guide)
