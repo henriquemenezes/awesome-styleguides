@@ -27,6 +27,7 @@
 
 + *Effective Go* - [https://golang.org/doc/effective_go.html](https://golang.org/doc/effective_go.html)
 + *Go Code Review Comments* - [https://github.com/golang/go/wiki/CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
++ *Uber Go Style Guide* - [https://github.com/uber-go/guide](https://github.com/uber-go/guide)
 
 ### Ruby
 
