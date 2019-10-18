@@ -1,5 +1,5 @@
 # awesome-styleguides
-> A list of styleguides
+> A curated list of awesome styleguides
 
 ## Contents
 
