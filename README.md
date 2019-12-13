@@ -31,8 +31,12 @@
 
 ### Ruby
 
-+ *Ruby* - [https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
++ *Ruby - Rubocop* - [https://github.com/rubocop-hq/ruby-style-guide](https://github.com/rubocop-hq/ruby-style-guide)
++ *Ruby - Github* - [https://github.com/github/rubocop-github](https://github.com/github/rubocop-github)
++ *Ruby - Shopify* - [https://shopify.github.io/ruby-style-guide/](https://shopify.github.io/ruby-style-guide/)
++ *Ruby - Airbnb* - [https://github.com/airbnb/ruby](https://github.com/airbnb/ruby)
 + *Rubocop* - [https://github.com/rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop)
+
 
 #### Rails
 
