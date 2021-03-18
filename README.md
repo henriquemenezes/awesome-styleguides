@@ -3,6 +3,7 @@
 
 ## Contents
 
+- [Airflow](#airflow)
 - [Go](#go)
 - [Ruby](#ruby)
   - [Rails](#rails)
@@ -22,6 +23,10 @@
 - [Other](#other)
 
 ## Styleguides
+
+### Airflow
+
++ *Airflow Best Practices and Development Guide* - [https://github.com/astronomer/airflow-guides/blob/main/guides_in_progress/apache_airflow/best-practices-guide.md](https://github.com/astronomer/airflow-guides/blob/main/guides_in_progress/apache_airflow/best-practices-guide.md)
 
 ### Go
 
