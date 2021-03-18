@@ -27,6 +27,10 @@
 ### Airflow
 
 + *Airflow Best Practices and Development Guide* - [https://github.com/astronomer/airflow-guides/blob/main/guides_in_progress/apache_airflow/best-practices-guide.md](https://github.com/astronomer/airflow-guides/blob/main/guides_in_progress/apache_airflow/best-practices-guide.md)
++ *Best Practices* - [https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html)
++ *Apache Airflow Best Practices – Part 1* - [https://marclamberti.com/blog/apache-airflow-best-practices-1/](https://marclamberti.com/blog/apache-airflow-best-practices-1/)
++ *DAG Writing Best Practices in Apache Airflow* - [https://www.astronomer.io/guides/dag-best-practices](https://www.astronomer.io/guides/dag-best-practices)
++ *Best Practices* - [https://livebook.manning.com/book/data-pipelines-with-apache-airflow/chapter-10/v-4/1](https://livebook.manning.com/book/data-pipelines-with-apache-airflow/chapter-10/v-4/1)
 
 ### Go
 
