@@ -57,6 +57,7 @@
 
 + *PEP 8* - [https://www.python.org/dev/peps/pep-0008/](https://www.python.org/dev/peps/pep-0008/)
 + *Google Python Style Guide* - [https://google.github.io/styleguide/pyguide.html](https://google.github.io/styleguide/pyguide.html)
++ *The Hitchhiker's Guide to Python - Code Style* - [https://docs.python-guide.org/writing/style/](https://docs.python-guide.org/writing/style/)
 
 #### Django
 
